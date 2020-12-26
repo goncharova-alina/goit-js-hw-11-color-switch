@@ -41,6 +41,3 @@ function stop() {
 
 refs.startBtn.addEventListener('click', start);
 refs.stopBtn.addEventListener('click', stop);
-
-
-
